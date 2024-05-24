@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/.png"
+    src=".imagens/art-tablet-artigo-dio.png"
     width="400"  
   />
 </p>
