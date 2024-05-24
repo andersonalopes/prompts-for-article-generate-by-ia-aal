@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src=".imagens/art-tablet-artigo-dio.png"
+    src="imagens/art-tablet-artigo-dio.png"
     width="400"  
   />
 </p>
